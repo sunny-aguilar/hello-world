@@ -5,4 +5,4 @@ About Me:
 From the USA, accountant by day, coder by night....
 Currently taking university classes on Html5/CSS3, JavaScript, PHP, and AJAX.
 
-
+Currently working on my B.S. in Computer Science at OSU.
